@@ -11,7 +11,7 @@
 </head>
 <body>
 	<div class="container mt-3">
-		<h2>Thêm sửa xóa</h2>
+		<h2>CRUD jsp servler hibernate</h2>
 		<a href="crud?status=add"><button type="button" class="btn btn-success mt-5">Thêm</button></a>
 		<table class="table mt-2">
 		
