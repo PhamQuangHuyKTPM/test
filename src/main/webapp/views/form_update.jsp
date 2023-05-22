@@ -7,6 +7,7 @@
 <title>Update</title>
 </head>
 <body>
+	<h1>form update</h1>
 	<form method="POST" action="crud?status=update">
 	<input type="hidden" value="${student.id }" name="id" />
 		<div class="mb-3">
