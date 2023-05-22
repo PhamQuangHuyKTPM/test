@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Update</title>
+<title>Form ADD</title>
 </head>
 <body>
 	<form method="POST" action="crud?status=add">
